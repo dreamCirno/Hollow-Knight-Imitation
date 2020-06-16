@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BackButton_Override
+  m_Controller: {fileID: 9100000, guid: 46221ed21f4da09418d548529e11f1a9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0bba9bf025b0efa4683b0081b0e3a5e1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1ec31404fe453b6429eff867f68ca5dc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 62426a341bc1a474081890167ffd834e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: da6dd50101abe5843954c01881f1078b, type: 2}

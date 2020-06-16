@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 7d66cb5abf914b64fac1388a9530721f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8115799977106201535
+    second: Primal Aspid - atlas0 #0330044_0
+  - first:
+      213: 3985900697113421000
+    second: Primal Aspid - atlas0 #0330044_1
+  - first:
+      213: 7385415643825917255
+    second: Primal Aspid - atlas0 #0330044_2
+  - first:
+      213: -2282490594459289040
+    second: Primal Aspid - atlas0 #0330044_3
+  - first:
+      213: 7380225256553657221
+    second: Primal Aspid - atlas0 #0330044_4
+  - first:
+      213: -9152922470445805798
+    second: Primal Aspid - atlas0 #0330044_5
+  - first:
+      213: -6691622273435254169
+    second: Primal Aspid - atlas0 #0330044_6
+  - first:
+      213: 4374071042549859321
+    second: Primal Aspid - atlas0 #0330044_7
+  - first:
+      213: -1454281341518220841
+    second: Primal Aspid - atlas0 #0330044_8
+  - first:
+      213: -9209775846675208384
+    second: Primal Aspid - atlas0 #0330044_9
+  - first:
+      213: 5441841680980719913
+    second: Primal Aspid - atlas0 #0330044_10
+  - first:
+      213: 8318737723846492842
+    second: Primal Aspid - atlas0 #0330044_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 135
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14426709be2ee5f80800000000000000
+      internalID: -8115799977106201535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 242
+        width: 95
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c46d69d093c05730800000000000000
+      internalID: 3985900697113421000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 391
+        width: 155
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d4bd006644e7660800000000000000
+      internalID: 7385415643825917255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 252
+        width: 155
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a7512c5e6f250e0800000000000000
+      internalID: -2282490594459289040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5833f3bc4c3db6660800000000000000
+      internalID: 7380225256553657221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 254
+        width: 120
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0364e1894af080800000000000000
+      internalID: -9152922470445805798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ccccfef49223a0800000000000000
+      internalID: -6691622273435254169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 123
+        width: 154
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c1893072d3bc30800000000000000
+      internalID: 4374071042549859321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 136
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f35333da51dbe0800000000000000
+      internalID: -1454281341518220841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047a3f5b9ad403080800000000000000
+      internalID: -9209775846675208384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92935ce3d2e458b40800000000000000
+      internalID: 5441841680980719913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Primal Aspid - atlas0 #0330044_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 152
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20381a2e7127370800000000000000
+      internalID: 8318737723846492842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

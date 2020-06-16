@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: d5af4e58804d05a479f96dc694450c61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6037414990563836856
+    second: Crawlid - atlas0 #0070052_0
+  - first:
+      213: 5317460708099613929
+    second: Crawlid - atlas0 #0070052_1
+  - first:
+      213: -4955257489875655764
+    second: Crawlid - atlas0 #0070052_2
+  - first:
+      213: -2098488856760049824
+    second: Crawlid - atlas0 #0070052_3
+  - first:
+      213: 6063512524511873635
+    second: Crawlid - atlas0 #0070052_4
+  - first:
+      213: 8792700654657915425
+    second: Crawlid - atlas0 #0070052_5
+  - first:
+      213: 4695028038597479395
+    second: Crawlid - atlas0 #0070052_6
+  - first:
+      213: -5266458034318451593
+    second: Crawlid - atlas0 #0070052_7
+  - first:
+      213: -8094491125725058136
+    second: Crawlid - atlas0 #0070052_8
+  - first:
+      213: -3414991046527492527
+    second: Crawlid - atlas0 #0070052_9
+  - first:
+      213: -1762699767716192001
+    second: Crawlid - atlas0 #0070052_10
+  - first:
+      213: 71191566748985787
+    second: Crawlid - atlas0 #0070052_11
+  - first:
+      213: -808270747676957277
+    second: Crawlid - atlas0 #0070052_12
+  - first:
+      213: -691072604930507620
+    second: Crawlid - atlas0 #0070052_13
+  - first:
+      213: 981505194713445855
+    second: Crawlid - atlas0 #0070052_14
+  - first:
+      213: -9201536925718493691
+    second: Crawlid - atlas0 #0070052_15
+  - first:
+      213: -502963026695364278
+    second: Crawlid - atlas0 #0070052_0
+  - first:
+      213: 8381738726368606363
+    second: Crawlid - atlas0 #0070052_1
+  - first:
+      213: -4194881300110112224
+    second: Crawlid - atlas0 #0070052_2
+  - first:
+      213: 2312070185020182818
+    second: Crawlid - atlas0 #0070052_3
+  - first:
+      213: 5059420106655604287
+    second: Crawlid - atlas0 #0070052_4
+  - first:
+      213: -7983540159341487424
+    second: Crawlid - atlas0 #0070052_5
+  - first:
+      213: 1209314706255708815
+    second: Crawlid - atlas0 #0070052_6
+  - first:
+      213: 6146198423596327478
+    second: Crawlid - atlas0 #0070052_7
+  - first:
+      213: -268976881290355878
+    second: Crawlid - atlas0 #0070052_8
+  - first:
+      213: -3531674954946608563
+    second: Crawlid - atlas0 #0070052_9
+  - first:
+      213: 3022119788680215436
+    second: Crawlid - atlas0 #0070052_10
+  - first:
+      213: 1694701486915382365
+    second: Crawlid - atlas0 #0070052_11
+  - first:
+      213: -2112577471591873919
+    second: Crawlid - atlas0 #0070052_12
+  - first:
+      213: 1101614787297553766
+    second: Crawlid - atlas0 #0070052_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 430
+        width: 110
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41eaa2cacd1509f0800000000000000
+      internalID: -502963026695364278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 419
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f55996fae15470800000000000000
+      internalID: 8381738726368606363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 428
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a0208dea9c8c5c0800000000000000
+      internalID: -4194881300110112224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 427
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22156e9559f161020800000000000000
+      internalID: 2312070185020182818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 328
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e1da2f7cba63640800000000000000
+      internalID: 5059420106655604287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 323
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca92601684c43190800000000000000
+      internalID: -7983540159341487424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 327
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f820700715958c010800000000000000
+      internalID: 1209314706255708815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 326
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632668df6eeab4550800000000000000
+      internalID: 6146198423596327478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b55e993f6644cf0800000000000000
+      internalID: -268976881290355878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 212
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4283401758fcfec0800000000000000
+      internalID: -3531674954946608563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 215
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b76f89fe9b0f920800000000000000
+      internalID: 3022119788680215436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ceaeff50ac48710800000000000000
+      internalID: 1694701486915382365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 118
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18206458bfd9ea2e0800000000000000
+      internalID: -2112577471591873919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crawlid - atlas0 #0070052_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 113
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d203cffc8b94f00800000000000000
+      internalID: 1101614787297553766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

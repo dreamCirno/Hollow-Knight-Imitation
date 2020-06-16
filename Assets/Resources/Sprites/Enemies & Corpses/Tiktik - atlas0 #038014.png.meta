@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: e01377b4a3d13af49b234bec935a43ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8115732897988637635
+    second: Tiktik - atlas0 #038014_0
+  - first:
+      213: 7055074653530022747
+    second: Tiktik - atlas0 #038014_1
+  - first:
+      213: 3663764211445805799
+    second: Tiktik - atlas0 #038014_2
+  - first:
+      213: 7195255519421962960
+    second: Tiktik - atlas0 #038014_3
+  - first:
+      213: -8488480918350911117
+    second: Tiktik - atlas0 #038014_4
+  - first:
+      213: 1111070899170710494
+    second: Tiktik - atlas0 #038014_5
+  - first:
+      213: 7804714112650058942
+    second: Tiktik - atlas0 #038014_6
+  - first:
+      213: 1529187882620658402
+    second: Tiktik - atlas0 #038014_7
+  - first:
+      213: -705864391647338088
+    second: Tiktik - atlas0 #038014_8
+  - first:
+      213: -4863026577603797514
+    second: Tiktik - atlas0 #038014_9
+  - first:
+      213: -7792467825023071902
+    second: Tiktik - atlas0 #038014_10
+  - first:
+      213: 3321694299836128347
+    second: Tiktik - atlas0 #038014_11
+  - first:
+      213: -1383102268438197342
+    second: Tiktik - atlas0 #038014_12
+  - first:
+      213: 6348521558528104099
+    second: Tiktik - atlas0 #038014_13
+  - first:
+      213: 3098220293032974045
+    second: Tiktik - atlas0 #038014_14
+  - first:
+      213: 6980949224377742870
+    second: Tiktik - atlas0 #038014_15
+  - first:
+      213: 9068706855039914256
+    second: Tiktik - atlas0 #038014_16
+  - first:
+      213: -8803641004197861989
+    second: Tiktik - atlas0 #038014_17
+  - first:
+      213: -3817948090066537204
+    second: Tiktik - atlas0 #038014_18
+  - first:
+      213: 4430016333620927663
+    second: Tiktik - atlas0 #038014_0
+  - first:
+      213: 1451070057876756988
+    second: Tiktik - atlas0 #038014_1
+  - first:
+      213: -4528084479475427723
+    second: Tiktik - atlas0 #038014_2
+  - first:
+      213: -511764902860277573
+    second: Tiktik - atlas0 #038014_3
+  - first:
+      213: 401629744600182220
+    second: Tiktik - atlas0 #038014_4
+  - first:
+      213: -6456210689921155607
+    second: Tiktik - atlas0 #038014_5
+  - first:
+      213: -6000680909264609203
+    second: Tiktik - atlas0 #038014_6
+  - first:
+      213: 3441582681888689302
+    second: Tiktik - atlas0 #038014_7
+  - first:
+      213: 8759878682623314151
+    second: Tiktik - atlas0 #038014_8
+  - first:
+      213: 1237575634493414176
+    second: Tiktik - atlas0 #038014_9
+  - first:
+      213: -3699183870681312879
+    second: Tiktik - atlas0 #038014_10
+  - first:
+      213: -1446569207723415944
+    second: Tiktik - atlas0 #038014_11
+  - first:
+      213: 2134018082970384960
+    second: Tiktik - atlas0 #038014_12
+  - first:
+      213: -4053430338019034687
+    second: Tiktik - atlas0 #038014_13
+  - first:
+      213: -1294920895303518857
+    second: Tiktik - atlas0 #038014_14
+  - first:
+      213: 2314891580762832550
+    second: Tiktik - atlas0 #038014_17
+  - first:
+      213: 3527313545701718796
+    second: Tiktik - atlas0 #038014_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 372
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3709c5210e0a070800000000000000
+      internalID: 8115732897988637635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 375
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53e48b9409a8e160800000000000000
+      internalID: 7055074653530022747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 364
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2340c832e48d230800000000000000
+      internalID: 3663764211445805799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9057d5ceaad360800000000000000
+      internalID: 7195255519421962960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3185998115b6f00800000000000000
+      internalID: 1111070899170710494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 187
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc1cf1622aef4c60800000000000000
+      internalID: 7804714112650058942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 176
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2af6af644c83510800000000000000
+      internalID: 1529187882620658402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 178
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891634c53144436f0800000000000000
+      internalID: -705864391647338088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd54a4d71f038cb0800000000000000
+      internalID: -4863026577603797514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269c6d5acc79bd390800000000000000
+      internalID: -7792467825023071902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1c2add57091e20800000000000000
+      internalID: 3321694299836128347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 73
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab44b990db3ecce0800000000000000
+      internalID: -1383102268438197342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61af8b8ba7a1850800000000000000
+      internalID: 6348521558528104099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6132201f61ffa20800000000000000
+      internalID: 3098220293032974045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9529be762f23d580800000000000000
+      internalID: -8803641004197861989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 110
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f3b0c07ce30bc0800000000000000
+      internalID: -3817948090066537204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 282
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdef12ff10e29500800000000000000
+      internalID: 401629744600182220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiktik - atlas0 #038014_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 273
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f21a355051e060800000000000000
+      internalID: 6980949224377742870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

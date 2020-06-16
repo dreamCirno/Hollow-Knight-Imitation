@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: 3d69ae5f6424e7144962a49a0751863c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1375321249729504294
+    second: Husk Bully - atlas0 #041018_0
+  - first:
+      213: -7497004067369765454
+    second: Husk Bully - atlas0 #041018_1
+  - first:
+      213: 5702529859719402346
+    second: Husk Bully - atlas0 #041018_2
+  - first:
+      213: 6371529984860135128
+    second: Husk Bully - atlas0 #041018_3
+  - first:
+      213: -6484238403800152933
+    second: Husk Bully - atlas0 #041018_4
+  - first:
+      213: -1699931897109205101
+    second: Husk Bully - atlas0 #041018_5
+  - first:
+      213: -164381258789738518
+    second: Husk Bully - atlas0 #041018_6
+  - first:
+      213: 6554837088525776616
+    second: Husk Bully - atlas0 #041018_7
+  - first:
+      213: 1299923646190668302
+    second: Husk Bully - atlas0 #041018_8
+  - first:
+      213: -9108654919576883080
+    second: Husk Bully - atlas0 #041018_9
+  - first:
+      213: 3941265242794886690
+    second: Husk Bully - atlas0 #041018_10
+  - first:
+      213: 8030735659141390232
+    second: Husk Bully - atlas0 #041018_11
+  - first:
+      213: 1245532988838304080
+    second: Husk Bully - atlas0 #041018_12
+  - first:
+      213: 8569453087927939463
+    second: Husk Bully - atlas0 #041018_13
+  - first:
+      213: -4689113406371775228
+    second: Husk Bully - atlas0 #041018_14
+  - first:
+      213: -9102028180789134772
+    second: Husk Bully - atlas0 #041018_15
+  - first:
+      213: -5727102986764289794
+    second: Husk Bully - atlas0 #041018_16
+  - first:
+      213: -4305058337818015490
+    second: Husk Bully - atlas0 #041018_17
+  - first:
+      213: 3079972107176345922
+    second: Husk Bully - atlas0 #041018_18
+  - first:
+      213: -5416655410008219787
+    second: Husk Bully - atlas0 #041018_19
+  - first:
+      213: 8669035423851451702
+    second: Husk Bully - atlas0 #041018_20
+  - first:
+      213: 4153640628465673737
+    second: Husk Bully - atlas0 #041018_21
+  - first:
+      213: -6703084862633387948
+    second: Husk Bully - atlas0 #041018_22
+  - first:
+      213: 350779631499992668
+    second: Husk Bully - atlas0 #041018_23
+  - first:
+      213: -9182814930363961536
+    second: Husk Bully - atlas0 #041018_24
+  - first:
+      213: 8518489590208724017
+    second: Husk Bully - atlas0 #041018_25
+  - first:
+      213: 4490512313396823913
+    second: Husk Bully - atlas0 #041018_26
+  - first:
+      213: -8878217040894897683
+    second: Husk Bully - atlas0 #041018_27
+  - first:
+      213: 752706046328341763
+    second: Husk Bully - atlas0 #041018_28
+  - first:
+      213: 6659655110856430036
+    second: Husk Bully - atlas0 #041018_29
+  - first:
+      213: -1080423558440711509
+    second: Husk Bully - atlas0 #041018_30
+  - first:
+      213: 7184079546133680953
+    second: Husk Bully - atlas0 #041018_31
+  - first:
+      213: -2537578161104496747
+    second: Husk Bully - atlas0 #041018_32
+  - first:
+      213: -4162718792500507146
+    second: Husk Bully - atlas0 #041018_0
+  - first:
+      213: 3927872912857362704
+    second: Husk Bully - atlas0 #041018_1
+  - first:
+      213: 3720238687651079448
+    second: Husk Bully - atlas0 #041018_2
+  - first:
+      213: 3083065014455785162
+    second: Husk Bully - atlas0 #041018_3
+  - first:
+      213: 8957383353080147279
+    second: Husk Bully - atlas0 #041018_4
+  - first:
+      213: 7743581042618584560
+    second: Husk Bully - atlas0 #041018_5
+  - first:
+      213: -1328976402533055844
+    second: Husk Bully - atlas0 #041018_6
+  - first:
+      213: 2876712554633673160
+    second: Husk Bully - atlas0 #041018_7
+  - first:
+      213: 925578397989438873
+    second: Husk Bully - atlas0 #041018_8
+  - first:
+      213: -76208553914030053
+    second: Husk Bully - atlas0 #041018_9
+  - first:
+      213: 5079146515341884182
+    second: Husk Bully - atlas0 #041018_10
+  - first:
+      213: -3279618772386383269
+    second: Husk Bully - atlas0 #041018_11
+  - first:
+      213: 1393403277890510762
+    second: Husk Bully - atlas0 #041018_12
+  - first:
+      213: -100524542348716048
+    second: Husk Bully - atlas0 #041018_13
+  - first:
+      213: 4872601085476641291
+    second: Husk Bully - atlas0 #041018_14
+  - first:
+      213: 3180484428483176201
+    second: Husk Bully - atlas0 #041018_15
+  - first:
+      213: -8627983907031494561
+    second: Husk Bully - atlas0 #041018_16
+  - first:
+      213: -7541668772901760280
+    second: Husk Bully - atlas0 #041018_17
+  - first:
+      213: 5322043570456386533
+    second: Husk Bully - atlas0 #041018_18
+  - first:
+      213: -1252501800528854691
+    second: Husk Bully - atlas0 #041018_19
+  - first:
+      213: -348661813957576107
+    second: Husk Bully - atlas0 #041018_20
+  - first:
+      213: 8452793688660634409
+    second: Husk Bully - atlas0 #041018_21
+  - first:
+      213: -492596613602695639
+    second: Husk Bully - atlas0 #041018_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 866
+        width: 123
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb93d13c90e9ece0800000000000000
+      internalID: -1375321249729504294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 760
+        width: 123
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b534c4858a45f790800000000000000
+      internalID: -7497004067369765454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 653
+        width: 124
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6312a1b1b4732f40800000000000000
+      internalID: 5702529859719402346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 547
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de965f63c83c6850800000000000000
+      internalID: 6371529984860135128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 441
+        width: 128
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94cb86d68b5306a0800000000000000
+      internalID: -6484238403800152933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 330
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f237a32f0a868e0800000000000000
+      internalID: -1699931897109205101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 131
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72b16bd1008bdf0800000000000000
+      internalID: -164381258789738518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 111
+        width: 147
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6722e5a9577fa50800000000000000
+      internalID: 6554837088525776616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 143
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a435e3ba14a0210800000000000000
+      internalID: 1299923646190668302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 767
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87071014c9e879180800000000000000
+      internalID: -9108654919576883080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 659
+        width: 119
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226026a4bdf22b630800000000000000
+      internalID: 3941265242794886690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 551
+        width: 125
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f5f288887e27f60800000000000000
+      internalID: 8030735659141390232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 441
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059dcbb77a5094110800000000000000
+      internalID: 1245532988838304080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 331
+        width: 131
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781b1593e20dce670800000000000000
+      internalID: 8569453087927939463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 223
+        width: 134
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d30bd633ceceeb0800000000000000
+      internalID: -4689113406371775228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 114
+        width: 140
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af77c18991fa180800000000000000
+      internalID: -9102028180789134772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8f5d15d2e3580b0800000000000000
+      internalID: -5727102986764289794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 857
+        width: 116
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8060d304c5144c0800000000000000
+      internalID: -4305058337818015490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 756
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418b5620524eba20800000000000000
+      internalID: 3079972107176345922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 651
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f13cf6a9c24d4b0800000000000000
+      internalID: -5416655410008219787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 546
+        width: 125
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63591f799c99e4870800000000000000
+      internalID: 8669035423851451702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 441
+        width: 129
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a3580522b4a930800000000000000
+      internalID: 4153640628465673737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 333
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585077f4dbd9f2a0800000000000000
+      internalID: -6703084862633387948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 223
+        width: 131
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5edff167383ed400800000000000000
+      internalID: 350779631499992668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 745
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa0853976109080800000000000000
+      internalID: -9182814930363961536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 614
+        width: 102
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cf04f3621c73670800000000000000
+      internalID: 8518489590208724017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 485
+        width: 102
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96709834821815e30800000000000000
+      internalID: 4490512313396823913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 353
+        width: 102
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d3aed3ac3ac480800000000000000
+      internalID: -8878217040894897683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 223
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30580bf3926227a00800000000000000
+      internalID: 752706046328341763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 114
+        width: 138
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d15639f909db6c50800000000000000
+      internalID: 6659655110856430036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8d287f709101f0800000000000000
+      internalID: -1080423558440711509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 112
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9339279c84af2b360800000000000000
+      internalID: 7184079546133680953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Bully - atlas0 #041018_32
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d39d6b16b8ccd0800000000000000
+      internalID: -2537578161104496747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

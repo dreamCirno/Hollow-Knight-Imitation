@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Plat Lift 02
+  m_Controller: {fileID: 9100000, guid: 24a26c40bd82e2d44a335ae6f334a465, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b534420c7eff71143930a25da7f1f5f4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: caad602d48b16d046997df4a04cf2a90, type: 2}

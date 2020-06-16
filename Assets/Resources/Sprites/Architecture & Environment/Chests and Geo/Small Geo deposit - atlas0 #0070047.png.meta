@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 92f3e4b5ec3b44844aa608b579a8c9bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2799687162974681715
+    second: Small Geo deposit - atlas0 #0070047_0
+  - first:
+      213: 8522129706423473097
+    second: Small Geo deposit - atlas0 #0070047_1
+  - first:
+      213: -2085802077653646362
+    second: Small Geo deposit - atlas0 #0070047_2
+  - first:
+      213: 8481966428932779859
+    second: Small Geo deposit - atlas0 #0070047_3
+  - first:
+      213: 6936388489346665218
+    second: Small Geo deposit - atlas0 #0070047_4
+  - first:
+      213: -335135147446353254
+    second: Small Geo deposit - atlas0 #0070047_5
+  - first:
+      213: 6563753993787055457
+    second: Small Geo deposit - atlas0 #0070047_6
+  - first:
+      213: -3790335122400233386
+    second: Small Geo deposit - atlas0 #0070047_7
+  - first:
+      213: -8110495816023290772
+    second: Small Geo deposit - atlas0 #0070047_8
+  - first:
+      213: -936913938452628684
+    second: Small Geo deposit - atlas0 #0070047_9
+  - first:
+      213: -3548544858311024914
+    second: Small Geo deposit - atlas0 #0070047_10
+  - first:
+      213: 8698812965896871091
+    second: Small Geo deposit - atlas0 #0070047_11
+  - first:
+      213: 6996829831503817102
+    second: Small Geo deposit - atlas0 #0070047_12
+  - first:
+      213: 7147908024340198004
+    second: Small Geo deposit - atlas0 #0070047_13
+  - first:
+      213: 309366600733951246
+    second: Small Geo deposit - atlas0 #0070047_14
+  - first:
+      213: 9001308286238886253
+    second: Small Geo deposit - atlas0 #0070047_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d854ca0db538529d0800000000000000
+      internalID: -2799687162974681715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 331
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3dc29d0dfa44670800000000000000
+      internalID: 8522129706423473097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3cea9bf0ebd03e0800000000000000
+      internalID: -2085802077653646362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 217
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fa359178ff5b570800000000000000
+      internalID: 8481966428932779859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 217
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bcd9b9490034060800000000000000
+      internalID: 6936388489346665218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 106
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b5a9c946066bc0800000000000000
+      internalID: -3790335122400233386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 217
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cc3adc60bb17f80800000000000000
+      internalID: -8110495816023290772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b3b69acb96ff2f0800000000000000
+      internalID: -936913938452628684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 109
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee15da904901cec0800000000000000
+      internalID: -3548544858311024914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc58dfdd4468b870800000000000000
+      internalID: 8698812965896871091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 109
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8924a439abb91160800000000000000
+      internalID: 6996829831503817102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 124
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47236f51a78723360800000000000000
+      internalID: 7147908024340198004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 92
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050e16c8471b4400800000000000000
+      internalID: 309366600733951246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small Geo deposit - atlas0 #0070047_15
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 119
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d698c0302321bec70800000000000000
+      internalID: 9001308286238886253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

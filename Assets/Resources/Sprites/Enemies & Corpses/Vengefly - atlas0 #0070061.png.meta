@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: c02ad819890a0fe4198cf04891ae5dd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1579882755611403843
+    second: Vengefly - atlas0 #0070061_0
+  - first:
+      213: 1423239625499465192
+    second: Vengefly - atlas0 #0070061_1
+  - first:
+      213: -2472766112547541617
+    second: Vengefly - atlas0 #0070061_2
+  - first:
+      213: 8553714706592535485
+    second: Vengefly - atlas0 #0070061_3
+  - first:
+      213: -2259084144360325981
+    second: Vengefly - atlas0 #0070061_4
+  - first:
+      213: -5826687364284120095
+    second: Vengefly - atlas0 #0070061_5
+  - first:
+      213: -2770249281894124516
+    second: Vengefly - atlas0 #0070061_6
+  - first:
+      213: 3383086306287609279
+    second: Vengefly - atlas0 #0070061_7
+  - first:
+      213: 9102494872567983116
+    second: Vengefly - atlas0 #0070061_8
+  - first:
+      213: 962255685500405099
+    second: Vengefly - atlas0 #0070061_9
+  - first:
+      213: 4088570753369537580
+    second: Vengefly - atlas0 #0070061_10
+  - first:
+      213: -7779540397938338861
+    second: Vengefly - atlas0 #0070061_11
+  - first:
+      213: 1430593462300258365
+    second: Vengefly - atlas0 #0070061_12
+  - first:
+      213: 241393334193456189
+    second: Vengefly - atlas0 #0070061_13
+  - first:
+      213: 5487923272977520561
+    second: Vengefly - atlas0 #0070061_14
+  - first:
+      213: -3444535732376111379
+    second: Vengefly - atlas0 #0070061_15
+  - first:
+      213: 6920096769603070043
+    second: Vengefly - atlas0 #0070061_16
+  - first:
+      213: -5624388379304580222
+    second: Vengefly - atlas0 #0070061_17
+  - first:
+      213: 2202643556907134309
+    second: Vengefly - atlas0 #0070061_18
+  - first:
+      213: 7055456995640608821
+    second: Vengefly - atlas0 #0070061_19
+  - first:
+      213: -2941031242001689848
+    second: Vengefly - atlas0 #0070061_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346abf2eefedce510800000000000000
+      internalID: 1579882755611403843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 410
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d72416ec50c310800000000000000
+      internalID: 1423239625499465192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 363
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8deaf86258feadd0800000000000000
+      internalID: -2472766112547541617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 363
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db39b74c436e4b670800000000000000
+      internalID: 8553714706592535485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c147b6d94f81e89d0800000000000000
+      internalID: -2770249281894124516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 325
+        width: 129
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e2ca321323fe20800000000000000
+      internalID: 3383086306287609279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 334
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0caa390cde825e70800000000000000
+      internalID: 9102494872567983116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 289
+        width: 135
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c74a120758db830800000000000000
+      internalID: 4088570753369537580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 108
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d39511d935890490800000000000000
+      internalID: -7779540397938338861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 225
+        width: 135
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d303762ac2d7ad310800000000000000
+      internalID: 1430593462300258365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 226
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348fbf55f9995300800000000000000
+      internalID: 241393334193456189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 144
+        width: 87
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79c68f325092c40800000000000000
+      internalID: 5487923272977520561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 129
+        width: 144
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6f497500d8230d0800000000000000
+      internalID: -3444535732376111379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 113
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e483095f190060800000000000000
+      internalID: 6920096769603070043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 90
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b27bc719822f1b0800000000000000
+      internalID: -5624388379304580222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56da04815ac519e10800000000000000
+      internalID: 2202643556907134309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 135
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538043191c40ae160800000000000000
+      internalID: 7055456995640608821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vengefly - atlas0 #0070061_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 140
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803d92beaab5f27d0800000000000000
+      internalID: -2941031242001689848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

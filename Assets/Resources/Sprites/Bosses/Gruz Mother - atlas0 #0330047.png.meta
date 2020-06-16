@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 197c7c1466e91e34b81d64b6ea1fe78f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2824819389930582742
+    second: Gruz Mother - atlas0 #0330047_0
+  - first:
+      213: 2349639097610399979
+    second: Gruz Mother - atlas0 #0330047_1
+  - first:
+      213: -2327443198996932580
+    second: Gruz Mother - atlas0 #0330047_2
+  - first:
+      213: 3843458890356307539
+    second: Gruz Mother - atlas0 #0330047_3
+  - first:
+      213: -505493992462138265
+    second: Gruz Mother - atlas0 #0330047_4
+  - first:
+      213: -2772092070879175000
+    second: Gruz Mother - atlas0 #0330047_5
+  - first:
+      213: 4515566957803701283
+    second: Gruz Mother - atlas0 #0330047_6
+  - first:
+      213: 124422049975570287
+    second: Gruz Mother - atlas0 #0330047_7
+  - first:
+      213: 6073261787679612669
+    second: Gruz Mother - atlas0 #0330047_8
+  - first:
+      213: -1309366033098711072
+    second: Gruz Mother - atlas0 #0330047_9
+  - first:
+      213: 8710651002021825091
+    second: Gruz Mother - atlas0 #0330047_10
+  - first:
+      213: 1402940603861717116
+    second: Gruz Mother - atlas0 #0330047_11
+  - first:
+      213: -4221233876927315224
+    second: Gruz Mother - atlas0 #0330047_12
+  - first:
+      213: -975691320292071796
+    second: Gruz Mother - atlas0 #0330047_13
+  - first:
+      213: -2779682088294996334
+    second: Gruz Mother - atlas0 #0330047_14
+  - first:
+      213: 8612519837885047050
+    second: Gruz Mother - atlas0 #0330047_15
+  - first:
+      213: 3299226164158845190
+    second: Gruz Mother - atlas0 #0330047_16
+  - first:
+      213: -3353921220685817245
+    second: Gruz Mother - atlas0 #0330047_17
+  - first:
+      213: 2496643010590335184
+    second: Gruz Mother - atlas0 #0330047_18
+  - first:
+      213: -1038943441268610263
+    second: Gruz Mother - atlas0 #0330047_19
+  - first:
+      213: 1467222965328497421
+    second: Gruz Mother - atlas0 #0330047_20
+  - first:
+      213: 562024675992197124
+    second: Gruz Mother - atlas0 #0330047_21
+  - first:
+      213: -3851751559632089283
+    second: Gruz Mother - atlas0 #0330047_22
+  - first:
+      213: 3650413131181183719
+    second: Gruz Mother - atlas0 #0330047_23
+  - first:
+      213: -3130697409467243181
+    second: Gruz Mother - atlas0 #0330047_24
+  - first:
+      213: -4759666376205324394
+    second: Gruz Mother - atlas0 #0330047_25
+  - first:
+      213: -8774326797275650046
+    second: Gruz Mother - atlas0 #0330047_26
+  - first:
+      213: -9128214176495841603
+    second: Gruz Mother - atlas0 #0330047_27
+  - first:
+      213: 521668510656889523
+    second: Gruz Mother - atlas0 #0330047_28
+  - first:
+      213: 702578712456650146
+    second: Gruz Mother - atlas0 #0330047_29
+  - first:
+      213: 3794688627484596781
+    second: Gruz Mother - atlas0 #0330047_30
+  - first:
+      213: 4328012106893561690
+    second: Gruz Mother - atlas0 #0330047_31
+  - first:
+      213: 4456087032457878458
+    second: Gruz Mother - atlas0 #0330047_32
+  - first:
+      213: 5370250497708650927
+    second: Gruz Mother - atlas0 #0330047_33
+  - first:
+      213: -3235420058064015957
+    second: Gruz Mother - atlas0 #0330047_34
+  - first:
+      213: -8698874629287577677
+    second: Gruz Mother - atlas0 #0330047_35
+  - first:
+      213: -168961259775599687
+    second: Gruz Mother - atlas0 #0330047_36
+  - first:
+      213: -8682104879141832662
+    second: Gruz Mother - atlas0 #0330047_37
+  - first:
+      213: -796997327924921616
+    second: Gruz Mother - atlas0 #0330047_38
+  - first:
+      213: -3372022640170131238
+    second: Gruz Mother - atlas0 #0330047_39
+  - first:
+      213: 5490368674800761434
+    second: Gruz Mother - atlas0 #0330047_40
+  - first:
+      213: -4978594416706178996
+    second: Gruz Mother - atlas0 #0330047_41
+  - first:
+      213: 7646192015589816657
+    second: Gruz Mother - atlas0 #0330047_42
+  - first:
+      213: -7365962941320495706
+    second: Gruz Mother - atlas0 #0330047_43
+  - first:
+      213: 3614343014050309073
+    second: Gruz Mother - atlas0 #0330047_44
+  - first:
+      213: -8752676782811130723
+    second: Gruz Mother - atlas0 #0330047_45
+  - first:
+      213: -8549365740438676360
+    second: Gruz Mother - atlas0 #0330047_46
+  - first:
+      213: 4881684632728491428
+    second: Gruz Mother - atlas0 #0330047_47
+  - first:
+      213: -6082691581354581898
+    second: Gruz Mother - atlas0 #0330047_48
+  - first:
+      213: -2442217174133500830
+    second: Gruz Mother - atlas0 #0330047_49
+  - first:
+      213: 5838036869494224510
+    second: Gruz Mother - atlas0 #0330047_50
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1300
+        width: 129
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b273c446c33720800000000000000
+      internalID: 2824819389930582742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1044
+        width: 132
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0ff637f489b9020800000000000000
+      internalID: 2349639097610399979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1060
+        width: 147
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1893e8edb243bfd0800000000000000
+      internalID: -2327443198996932580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1084
+        width: 125
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356318c4f75b65530800000000000000
+      internalID: 3843458890356307539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1031
+        width: 136
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764433f54ef1cf8f0800000000000000
+      internalID: -505493992462138265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 768
+        width: 134
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aed19ed2fc8789d0800000000000000
+      internalID: -2772092070879175000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 821
+        width: 163
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324816f39348aae30800000000000000
+      internalID: 4515566957803701283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 825
+        width: 138
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f050bf1390ab100800000000000000
+      internalID: 124422049975570287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 784
+        width: 146
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed89a1b6f884450800000000000000
+      internalID: 6073261787679612669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_9
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 927
+        width: 227
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef503cb78234dde0800000000000000
+      internalID: -1309366033098711072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 580
+        width: 225
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a49e17fe272e870800000000000000
+      internalID: 8710651002021825091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 542
+        width: 135
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70562ecb0f387310800000000000000
+      internalID: 1402940603861717116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 537
+        width: 128
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e207eb672a2b65c0800000000000000
+      internalID: -4221233876927315224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 588
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c862f83e9e5a572f0800000000000000
+      internalID: -975691320292071796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 727
+        width: 200
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29629aa3ed59c69d0800000000000000
+      internalID: -2779682088294996334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_15
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 833
+        width: 224
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a4265921d58770800000000000000
+      internalID: 8612519837885047050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 556
+        width: 225
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601dc5c57b439cd20800000000000000
+      internalID: 3299226164158845190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_17
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 633
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a906c6b6a7471d0800000000000000
+      internalID: -3353921220685817245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_18
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 713
+        width: 138
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e231279bd5a220800000000000000
+      internalID: 2496643010590335184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_19
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 517
+        width: 195
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6679d17ee491f0800000000000000
+      internalID: -1038943441268610263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_20
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 597
+        width: 133
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b43b6638f9c5410800000000000000
+      internalID: 1467222965328497421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_21
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 630
+        width: 179
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408d48f0776bcc700800000000000000
+      internalID: 562024675992197124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_22
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 799
+        width: 105
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f821d2d54db8ac0800000000000000
+      internalID: -3851751559632089283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_23
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 481
+        width: 107
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2d97fe66fd8a230800000000000000
+      internalID: 3650413131181183719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_24
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 479
+        width: 106
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35528711b478d84d0800000000000000
+      internalID: -3130697409467243181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_25
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 484
+        width: 222
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f29ec06a442fdb0800000000000000
+      internalID: -4759666376205324394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 390
+        width: 220
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a13924445b3680800000000000000
+      internalID: -8774326797275650046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 229
+        width: 132
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec740e191125180800000000000000
+      internalID: -9128214176495841603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_28
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 229
+        width: 133
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2063c1fb65d3700800000000000000
+      internalID: 521668510656889523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_29
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 405
+        width: 219
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2addab6dd9f00c900800000000000000
+      internalID: 702578712456650146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 366
+        width: 221
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1f6a933179a430800000000000000
+      internalID: 3794688627484596781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_31
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 401
+        width: 172
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0bf69410301c30800000000000000
+      internalID: 4328012106893561690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_32
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 323
+        width: 198
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb50e1fb8337dd30800000000000000
+      internalID: 4456087032457878458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_33
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 323
+        width: 132
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f9c6ff56f68a40800000000000000
+      internalID: 5370250497708650927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_34
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 327
+        width: 228
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badabe3699a7913d0800000000000000
+      internalID: -3235420058064015957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_35
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 296
+        width: 223
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f7affc93674780800000000000000
+      internalID: -8698874629287577677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_36
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 3
+        width: 135
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbd54221aab7adf0800000000000000
+      internalID: -168961259775599687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_37
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 141
+        width: 222
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b018bc97f28780800000000000000
+      internalID: -8682104879141832662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 141
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa7916272f70f4f0800000000000000
+      internalID: -796997327924921616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_39
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 213
+        width: 224
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a516464b2431d0800000000000000
+      internalID: -3372022640170131238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 166
+        width: 224
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a7e637835b13c40800000000000000
+      internalID: 5490368674800761434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_41
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 215
+        width: 224
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c403c7771ca78eab0800000000000000
+      internalID: -4978594416706178996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 178
+        width: 223
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159b8ad702bbc1a60800000000000000
+      internalID: 7646192015589816657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 301
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad76ed3bb7d6c990800000000000000
+      internalID: -7365962941320495706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3
+        width: 228
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d322e852d9b82230800000000000000
+      internalID: 3614343014050309073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_45
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3
+        width: 224
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94dbb6f6de388680800000000000000
+      internalID: -8752676782811130723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_46
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 4
+        width: 285
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c1242d72d8a5980800000000000000
+      internalID: -8549365740438676360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_47
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 4
+        width: 214
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d3472f4a3fb340800000000000000
+      internalID: 4881684632728491428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_48
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3
+        width: 302
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e917fb30f59ba0800000000000000
+      internalID: -6082691581354581898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gruz Mother - atlas0 #0330047_49
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 3
+        width: 303
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2641a676b608b1ed0800000000000000
+      internalID: -2442217174133500830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

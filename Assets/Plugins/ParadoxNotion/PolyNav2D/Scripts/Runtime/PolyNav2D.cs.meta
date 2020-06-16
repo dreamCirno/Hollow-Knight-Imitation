@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f01b895e078212419b3a7c52085d19e
+labels:
+- a*
+- pathfinding
+- 2d
+timeCreated: 1437078755
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
