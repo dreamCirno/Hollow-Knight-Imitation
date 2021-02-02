@@ -11,4 +11,4 @@ Packages的依赖应该需要在线下载，若没有的话
 
 项目使用 Universal Render Pipeline + Input System
 
-视频演示地址（Demo Viewo Follow the Link） -> https://www.bilibili.com/video/BV1JV411k7eH
+视频演示地址（Demo View Follow the Link） -> https://www.bilibili.com/video/BV1JV411k7eH
